@@ -1,0 +1,47 @@
+1- American cream cheeses:
+01- Bergenost
+02- Cream cheese
+03- Creole cream cheese
+04- Cup cheese
+05- Red Hawk cheese
+06- Kunik cheese
+------------------------------
+2- American soft cheeses:
+01- BellaVitano Cheese
+02- Brick cheese
+03- Cheese curd
+04- Colby cheese
+05- Colby-Jack cheese
+06- Farmer cheese
+07- Hoop cheese
+08- String cheese
+09- Cougar Gold cheese
+10- Humboldt Fog
+11- Liederkranz cheese
+12- Monterey Jack
+13- Pepper jack cheese
+14- Pinconning cheese
+15- Pizza cheese
+16- Muenster cheese
+17- Swiss cheese
+18- Vermont cheddar
+---------------------------------
+3- American hard cheeses:
+01- Capricious
+02- American generic parmesan
+----------------------------------
+4- American blue cheeses:
+01- Maytag Blue cheese
+----------------------------------
+5- Processed cheeses:
+01- American cheese
+02- Government cheese
+03- Nacho cheese
+04- Pimento cheese
+05- Pizza cheese
+06- Provel cheese
+07- Velveeta
+---------------------------------
+6- American Fresh cheeses:
+01- Cottage Cheese
+---------------------------------
